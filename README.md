@@ -1,6 +1,7 @@
-# Text_Mining_Project
----
+# Identification of Spoiler in IMDB movie review
+
 ### Abstract
+---
 This paper presents the NLP (Natural Language Processing) approach to detecting spoilers
 in the IMDB review. Generally, these reviews reveal some information associated with the
 plot of a movie. An automated approach, filtering out such spoilers, would be ideal as
@@ -12,3 +13,5 @@ Document Frequency (TF-IDF) method to process the text vectors. The results show
 our models are satisfactory. Quantitative and qualitative results demonstrate the proposed
 method substantially outperforms the baseline model.
 
+### Project
+-['Glove-Fine tuned model'](https://github.com/mowas455/Text_Mining_Project/blob/main/IMDB-GloVe-Bi-LSTM.ipynb) Implement the Pretrained Glove embedding with Bi-LSTM model.
