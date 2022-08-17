@@ -1,5 +1,5 @@
 # Text_Mining_Project
-
+---
 ### Abstract
 This paper presents the NLP (Natural Language Processing) approach to detecting spoilers
 in the IMDB review. Generally, these reviews reveal some information associated with the
