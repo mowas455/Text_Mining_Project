@@ -8,7 +8,7 @@ plot of a movie. An automated approach, filtering out such spoilers, would be id
 manual labeling is impossible due to a large amount of content. To identify those reviews,
 we propose supervised machine learning models. So, we explored Bi-LSTM, XGBoost, Random Forest, and Naive
 Bayes to improve the accuracy in text classification. In addition to
-this, we used the pretrained word embeddings(word2vec& Glove), cosine similarity, and Term-Frequency and Inverse
+this, we used the pretrained word embeddings(word2vec & Glove), cosine similarity, and Term-Frequency and Inverse
 Document Frequency (TF-IDF) method to process the text vectors. The results shown from
 our models are satisfactory. Quantitative and qualitative results demonstrate the proposed
 method substantially outperforms the baseline model.
