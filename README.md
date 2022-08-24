@@ -17,7 +17,7 @@ method substantially outperforms the baseline model.
 ---
 - ['IMDB-NB & XGBoost .ipynb'](https://github.com/mowas455/Text_Mining_Project/blob/main/IMDB-NB%20%26%20XGBoost%20.ipynb) Implement the feature engineering and modelling of naive bayes, XGboost and sematic similarity method.
 - ['IMDB-word2vec-Bi-lstm.ipynb'](https://github.com/mowas455/Text_Mining_Project/blob/main/imdb-review-4.ipynb) Implement the Pretrained Word2vec embedding with Bi-LSTM model.
-- ['IMDB-GloVe-Random Forest.ipynb'](https://github.com/mowas455/Text_Mining_Project/blob/main/imdb-random-forest-glove.ipynb) Implement the  Pretrained Glove embedding for convert sentence to vectors and predicted by Random Forest method.
+- ['IMDB-GloVe-Random Forest.ipynb'](https://github.com/mowas455/Text_Mining_Project/blob/main/imdb-random-forest-glove.ipynb) Implement the  Pretrained Glove embedding to convert sentence to vectors and predicted by Random Forest method.
 - ['IMDB-GloVe-Bi-LSTM.ipynb'](https://github.com/mowas455/Text_Mining_Project/blob/main/IMDB-GloVe-Bi-LSTM.ipynb) Implement the Pretrained Glove embedding with Bi-LSTM model.
 
 ### Datasets
